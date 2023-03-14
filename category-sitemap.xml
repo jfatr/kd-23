@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on 14 de March de 2023 at 12:27 by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on 14 de March de 2023 at 12:34 by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=category"?>
+<?xml-stylesheet type="text/xsl" href="https://jfatr.github.io/kd-23/default.xsl?sitemap=category"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/category/sin-categoria/]]></loc>
+		<loc><![CDATA[https://jfatr.github.io/kd-23/category/sin-categoria/]]></loc>
 		<lastmod><![CDATA[2023-02-10T12:29:41+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/uncategorized/]]></loc>
+		<loc><![CDATA[https://jfatr.github.io/kd-23/category/uncategorized/]]></loc>
 		<lastmod><![CDATA[2022-10-01T02:07:12+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
