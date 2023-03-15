@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
+	Comentarios en: Hello world!	</title>
 	<atom:link href="https://jfatr.github.io/kd-23/2022/10/01/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jfatr.github.io/kd-23/2022/10/01/hello-world/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Por: A WordPress Commenter		</title>
 		<link>https://jfatr.github.io/kd-23/2022/10/01/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

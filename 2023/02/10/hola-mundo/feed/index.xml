@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: ¡Hola, mundo!	</title>
+	Comentarios en: ¡Hola, mundo!	</title>
 	<atom:link href="https://jfatr.github.io/kd-23/2023/02/10/hola-mundo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jfatr.github.io/kd-23/2023/02/10/hola-mundo/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		By: Un comentarista de WordPress		</title>
+		Por: Un comentarista de WordPress		</title>
 		<link>https://jfatr.github.io/kd-23/2023/02/10/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
